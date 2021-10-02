@@ -1,1 +1,1 @@
-# WeatherMap
+# WeatherApp
